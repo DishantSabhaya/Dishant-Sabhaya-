@@ -7,6 +7,7 @@ void main()
     printf("enter the inr:");
     scanf("%f",&i);
     d=i/48;
-    printf("\n your minutes is : %f",d);
+    printf("\n your doller is : %f",d);
     getch();
 }
+
